@@ -1,0 +1,22 @@
+[
+  {
+    "tags": ["productivity", "macOS", "todo"],
+    "idea": "开发一款基于菜单栏的 macOS 待办事项应用，支持快捷键快速添加任务。"
+  },
+  {
+    "tags": ["ai", "journaling", "raycast"],
+    "idea": "创建一个 Raycast 插件，将日常情绪记录转化为结构化日志，并生成一句“今日咒语”。"
+  },
+  {
+    "tags": ["workflow", "automation", "api"],
+    "idea": "设计一个自动化工作流插件，整合 Notion、Feishu 和 GitHub，自动同步任务状态。"
+  },
+  {
+    "tags": ["developer-tool", "terminal", "raycast"],
+    "idea": "制作一个终端命令助手插件，支持命令模版管理、预览执行效果，并可一键复制。"
+  },
+  {
+    "tags": ["learning", "macOS", "beginner"],
+    "idea": "提供一个逐步引导的 macOS 应用开发教程，基于 todo 应用从零搭建。"
+  }
+]
